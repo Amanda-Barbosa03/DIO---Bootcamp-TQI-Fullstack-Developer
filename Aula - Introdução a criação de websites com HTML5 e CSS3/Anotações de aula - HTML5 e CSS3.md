@@ -9,15 +9,15 @@
 		- Ex.: <h1 class= "título"> Título </h1>
 
  ### Estrutura básica:
-**<!DOCTYPE html>** --> Delara o tipo do documento que estou editando. 
-**<html>** --> tag raiz; engloba todos os elementos; 
-  **<head>** --> contém os metadados que serão lidos pelo navegador; 
-     **<meta>** --> codificação de caracteres; 
-     **<title></title>** --> declara o título na página e na barra do navegador; 
-  **</head>** --> fechamento da tag head. 
-  **<body>** --> container que engloba todos os elementos visíveis/conteúdo da página;
-  **</body>** --> fechamento da tag body. 
-**</html>** --> fechamento da tag html.
+	> <!DOCTYPE html> --> Delara o tipo do documento que estou editando. 
+	> <html> --> tag raiz; engloba todos os elementos; 
+	> 	<head> --> contém os metadados que serão lidos pelo navegador; 
+	>		<meta> --> codificação de caracteres; 
+	>		<title></title> --> declara o título na página e na barra do navegador; 
+  	>	</head> --> fechamento da tag head. 
+  	>	<body> --> container que engloba todos os elementos visíveis/conteúdo da página;
+  	>	</body> --> fechamento da tag body. 
+	> </html> --> fechamento da tag html.
 
 ### Semântica:
 Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo e a estrutura do documento. 
