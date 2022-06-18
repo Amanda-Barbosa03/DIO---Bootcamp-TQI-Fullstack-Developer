@@ -42,13 +42,19 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 `<footer>` --> notas de rodapé;
 
 `<h1>-<h6>` --> níveis de títulos.
-     **Exemplos:**
-     ```<h1 class= "título 1"> Título </h1>``` <h1 class= "título 1"> Título </h1>
-     ```<h2 class= "título 2"> Título </h2>``` <h2 class= "título 2"> Título </h2>
-     ```<h3 class= "título 3"> Título </h3>``` <h3 class= "título 3"> Título </h3>
-     ```<h4 class= "título 4"> Título </h4>``` <h4 class= "título 4"> Título </h4>
-     ```<h5 class= "título 5"> Título </h5>``` <h5 class= "título 5"> Título </h5>
-     ```<h6 class= "título 6"> Título </h6>```<h6 class= "título 6"> Título </h6>
+   **Exemplos:**
+
+```<h1>Título 1</h1>``` <h1>Título 1</h1> 
+
+```<h2>Título 2</h2>``` <h2>Título 2</h2>
+
+```<h3>Título 3</h3>``` <h3>Título 3</h3>
+
+```<h4>Título 4</h1>``` <h4>Título 4</h4>
+
+```<h5>Título 5</h5>``` <h5>Título 5</h5>
+
+```<h6>Título 6</h6>``` <h6>Título 6</h6>
 
   
 ## Links úteis
