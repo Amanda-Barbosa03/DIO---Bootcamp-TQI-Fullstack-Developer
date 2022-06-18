@@ -20,4 +20,5 @@ por isso é necessário aprender e conhecer sobre o Git
 
 #### Links úteis
 [Download Git](https://git-scm.com/downloads)
+
 [Crie sua conta e seu repositório - GitHub](https://github.com/)
