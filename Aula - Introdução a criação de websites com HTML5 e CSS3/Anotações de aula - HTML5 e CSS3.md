@@ -9,7 +9,7 @@
 		- Ex.: ```<h1 class= "título"> Título </h1>```
 
  ### Estrutura básica:
-```<!DOCTYPE html>``` --> Delara o tipo do documento que estou editando. 
+```<!DOCTYPE html>``` <p> --> declara o tipo do documento que estou editando.</p>
 ```<html>``` --> tag raiz; engloba todos os elementos. 
 	```<head>``` --> contém os metadados que serão lidos pelo navegador. 
 		```<meta>``` --> codificação de caractere. 
