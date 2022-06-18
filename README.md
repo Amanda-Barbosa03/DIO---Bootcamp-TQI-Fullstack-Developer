@@ -4,6 +4,8 @@ Repositório criado para armazenar os desafios de projetos e códigos, anotaçõ
 ### Conteúdo
 - Aula de introdução ao Git e ao Github
     - Anotações de aula
+- Aula - Introdução a criação de websites com HTML5 e CSS3
+    - Anotações de aula
 
 ## Links úteis
 [Conheça a DIO](https://www.dio.me/)
