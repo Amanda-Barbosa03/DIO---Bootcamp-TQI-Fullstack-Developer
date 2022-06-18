@@ -59,14 +59,12 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 
 `<p></p>` --> parágrafos.
 
-`<a></a>` --> links.
+`<a></a>` --> âncora; direciona para links.
 
   ##### **Exemplos:**
-  
-> <a>Link</a>
-> <a href="https://github.com/Amanda-Barbosa03">GitHub</a>
-> <a target="_blank">Nova guia</a>
 
+> ```<a href="https://github.com/Amanda-Barbosa03">GitHub</a>```
+><a href="https://github.com/Amanda-Barbosa03">GitHub</a>
   
 ## Links úteis
 [Download VS Code - Editor de código](https://code.visualstudio.com/download)
