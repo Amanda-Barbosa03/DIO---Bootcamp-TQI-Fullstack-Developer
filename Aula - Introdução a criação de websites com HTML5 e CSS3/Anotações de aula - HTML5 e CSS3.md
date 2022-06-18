@@ -10,29 +10,14 @@
 
  ### Estrutura básica:
 ```<!DOCTYPE html>``` --> declara o tipo do documento que estou editando. 
-
-
-&nbsp
 ```<html>``` --> tag raiz; engloba todos os elementos.
-
-
-&nbsp
-	```<head>``` --> contém os metadados que serão lidos pelo navegador. 
-	
-	
-&nbsp
-		```<meta>``` --> codificação de caractere. 
-		&nbsp
-		```<title></title>``` --> declara o título na página e na barra do navegador. 
-		&nbsp
- 	```</head>``` --> fechamento da tag head.
-	&nbsp
- 	```<body>``` --> container que engloba todos os elementos visíveis/conteúdo da página. 
-	&nbsp
-  	```</body>``` --> fechamento da tag body. 
-	&nbsp
+```<head>``` --> contém os metadados que serão lidos pelo navegador. 
+	```<meta>``` --> codificação de caractere. 
+	```<title></title>``` --> declara o título na página e na barra do navegador. 
+```</head>``` --> fechamento da tag head.
+```<body>``` --> container que engloba todos os elementos visíveis/conteúdo da página. 
+```</body>``` --> fechamento da tag body. 
 ```</html>``` --> fechamento da tag html.
-&nbsp
 
 ### Semântica:
 Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo e a estrutura do documento. 
