@@ -5,8 +5,8 @@
  - Criação de Tim Berners-Lee em 1991 (HTML1); 2014 (HTML5)
  - Importate: utilizada para definir o significado e a estrutura do conteúdo da web
  - Elementos HTML: podemos agrupar tipos de conteúdo, alterar tamanho e forma de fontes e adicionar diferentes mídias ao nossa página na web.
- 	- Formato: Abertura da tag (<h1>) // atributo (class "titulo") // conteúdo (título) // fechamento da tag (</h1>)
-		- Ex.: <h1 class= "título"> Título </h1>
+ 	*/ - Formato: Abertura da tag (<h1>) // atributo (class "titulo") // conteúdo (título) // fechamento da tag (</h1>)
+	*/	- Ex.: <h1 class= "título"> Título </h1>
 
  ### Estrutura básica:
 	 <!DOCTYPE html> --> Delara o tipo do documento que estou editando. 
