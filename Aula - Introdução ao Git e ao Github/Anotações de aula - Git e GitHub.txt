@@ -1,4 +1,4 @@
-#Anotação de aula
+# Anotação de aula
 ## Introdução ao Git e ao GitHub
 
  - Git: Software de versionamento de código distribuído
