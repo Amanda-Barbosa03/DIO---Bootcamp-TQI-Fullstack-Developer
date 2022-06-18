@@ -18,7 +18,7 @@ por isso é necessário aprender e conhecer sobre o Git
 - GitHub: Repositório online para exposição e organização de projetos e códigos desenvolvidos
 - Imprtante: Forma de expor o progresso e se conectar com outros desenvolvedores e empresas. 
 
-#### Links úteis
+### Links úteis
 [Download Git](https://git-scm.com/downloads)
 
 [Crie sua conta e seu repositório - GitHub](https://github.com/)
