@@ -63,8 +63,8 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 
   ##### **Exemplos:**
 
-> ```<a href="https://github.com/Amanda-Barbosa03">GitHub</a>```
-><a href="https://github.com/Amanda-Barbosa03">GitHub</a>
+> ```<a href="https://github.com/Amanda-Barbosa03"target="_blank" >GitHub</a>```
+><a href="https://github.com/Amanda-Barbosa03" target="_blank">GitHub</a>
   
 ## Links úteis
 [Download VS Code - Editor de código](https://code.visualstudio.com/download)
