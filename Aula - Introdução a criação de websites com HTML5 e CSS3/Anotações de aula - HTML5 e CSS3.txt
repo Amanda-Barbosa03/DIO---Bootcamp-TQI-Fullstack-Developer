@@ -21,8 +21,8 @@
 
 ### Semântica:
  - Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo e a estrutura do documento. 
-	<div> --> Divisão de conteúdo geral;
-	<section> --> Divisão de conteúdo específica, separação de artigos;
+	<div> --> Divisão de conteúdo geral (container);
+	<section> --> Divisão de conteúdo independente e de maior relevância dentro da página, separação de artigos;
 	<header> -->Logo; seções de cabeçalho; suporte introdutório e navegacional; 
 	<article> --> post;
 	<aside> --> barras laterias;
