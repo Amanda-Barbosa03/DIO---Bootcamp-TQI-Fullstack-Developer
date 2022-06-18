@@ -63,9 +63,11 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 
   **Exemplos:**
 
->```<a href="https://github.com/Amanda-Barbosa03">GitHub</a>``` <a href="https://github.com/Amanda-Barbosa03">GitHub</a>
+>```<a href="https://github.com/Amanda-Barbosa03">GitHub</a>```
+<a href="https://github.com/Amanda-Barbosa03">GitHub</a>
 
->```<a target="_bank">Nova guia</a>``` <a target="_bank">Nova guia</a></a>
+>```<a target="_bank">Nova guia</a>```
+ <a target="_blank">Nova guia</a></a>
 
 
 
