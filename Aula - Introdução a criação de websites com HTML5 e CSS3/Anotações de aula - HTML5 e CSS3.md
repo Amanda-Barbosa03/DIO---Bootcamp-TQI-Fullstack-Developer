@@ -96,11 +96,11 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 `<ol>` --> tag/elemento para inserir uma lista em que a ordem dos elementos importa.
   #### Exemplos:
   Lista ordenada (Alfabética):
-  <ul> 
+  <oll> 
     <li>Alessandra/li>
     <li>Aline</li>
     <li>Amanda</li>
-  </ul>
+  </ol>
 
 `<li>` --> representa um item da lista.
   
