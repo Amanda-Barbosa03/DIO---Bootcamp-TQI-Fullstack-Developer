@@ -47,11 +47,11 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 
    ##### **Exemplos:**
 
->  ```<h1>Título 1 - Titulo da página </h1>``` <h1>Título 1</h1> 
+>  ```<h1>Título 1 - Titulo da página</h1>``` <h1>Título 1 - Titulo da página</h1> 
 
-> ```<h2>Título 2</h2> - Titulo da seção``` <h2>Título 2</h2>
+> ```<h2>Título 2 - Titulo da seção</h2> ``` <h2>Título 2 - Titulo da seção</h2>
 
->  ```<h3>Título 3 - Título artigo </h3>``` <h3>Título 3</h3>
+>  ```<h3>Título 3 - Título artigo</h3>``` <h3>Título 3 - Título artigo</h3>
 
 > ```<h4>Título 4</h1>``` <h4>Título 4</h4>
 
@@ -64,17 +64,22 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 #### TAGs para links:
 
 `<a>Link</a>` --> âncora; direciona para links.
+
 `<a href="url">Nome da página</a>` --> atrituto para indicar o caminho do link. 
+
 `<a target="_blank">Link</a>` --> atrituto para indicar o que o link deve ser aberto em uma nova guia.
 
   ##### **Exemplos:**
 
 > ```<a href="https://github.com/Amanda-Barbosa03"target="_blank" >GitHub</a>```
+
 ><a href="https://github.com/Amanda-Barbosa03" target="_blank">GitHub</a>
 
 #### TAGs para imagens:
 `<img>` --> tag/elemento para inserir uma imagem.
+
 `<img scr ="img/avatar.jpg">` --> recurso obrigatório para indicar o caminho da imagem
+
 `<img alt ="descrição da foto">` --> recurso recomendado para melhorar a sensibilidade, mostra a descrição da imagem qaundo ela não é carregada ou para mostar para o usuário, por meio de leitor de tela, o que a imagem significa. 
   
 ## Links úteis
