@@ -47,9 +47,9 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 
    ##### **Exemplos:**
 
->  ```<h1>Título 1 - Titulo da página</h1>``` <h1>Título 1 - Titulo da página</h1> 
+>  ```<h1>Título 1 - Título da página</h1>``` <h1>Título 1 - Título da página</h1> 
 
-> ```<h2>Título 2 - Titulo da seção</h2> ``` <h2>Título 2 - Titulo da seção</h2>
+> ```<h2>Título 2 - Título da seção</h2> ``` <h2>Título 2 - Título da seção</h2>
 
 >  ```<h3>Título 3 - Título do artigo</h3>``` <h3>Título 3 - Título artigo</h3>
 
