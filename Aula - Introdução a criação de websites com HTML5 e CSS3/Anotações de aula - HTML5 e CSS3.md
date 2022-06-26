@@ -47,21 +47,21 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 
    ##### **Exemplos:**
 
->  ```<h1>Título 1 - Título da página</h1>``` <h1>Título 1 - Título da página</h1> 
+  >  ```<h1>Título 1 - Título da página</h1>``` <h1>Título 1 - Título da página</h1> 
 
-> ```<h2>Título 2 - Título da seção</h2> ``` <h2>Título 2 - Título da seção</h2>
+  > ```<h2>Título 2 - Título da seção</h2> ``` <h2>Título 2 - Título da seção</h2>
 
->  ```<h3>Título 3 - Título do artigo</h3>``` <h3>Título 3 - Título do artigo</h3>
+  >  ```<h3>Título 3 - Título do artigo</h3>``` <h3>Título 3 - Título do artigo</h3>
 
-> ```<h4>Título 4</h1>``` <h4>Título 4</h4>
+  > ```<h4>Título 4</h1>``` <h4>Título 4</h4>
 
-> ```<h5>Título 5</h5>``` <h5>Título 5</h5>
+  > ```<h5>Título 5</h5>``` <h5>Título 5</h5>
 
-> ```<h6>Título 6</h6>``` <h6>Título 6</h6>
+  > ```<h6>Título 6</h6>``` <h6>Título 6</h6>
 
-`<p></p>` --> parágrafos.
+ `<p></p>` --> parágrafos.
 
-#### TAGs para links:
+### TAGs para links:
 
 `<a>Link</a>` --> âncora; direciona para links.
 
@@ -71,16 +71,38 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 
   ##### **Exemplos:**
 
-> ```<a href="https://github.com/Amanda-Barbosa03"target="_blank" >GitHub</a>```
->
-><a href="https://github.com/Amanda-Barbosa03" target="_blank">GitHub</a>
+  >```<a href="https://github.com/Amanda-Barbosa03"target="_blank" >GitHub</a>```
+  >
+  ><a href="https://github.com/Amanda-Barbosa03" target="_blank">GitHub</a>
 
-#### TAGs para imagens:
+### TAGs para imagens:
 `<img>` --> tag/elemento para inserir uma imagem.
 
 `<img scr ="img/avatar.jpg">` --> recurso obrigatório para indicar o caminho da imagem
 
 `<img alt ="descrição da foto">` --> recurso recomendado para melhorar a sensibilidade, mostra a descrição da imagem qaundo ela não é carregada ou para mostar para o usuário, por meio de leitor de tela, o que a imagem significa. 
+
+### TAGs para listas (Agrupamento de coleção de itens):
+
+`<ul>` --> "Unordered list" - tag/elemento para inserir uma lista em que a ordem dos elementos é irrelevante.
+  #### Exemplos:
+  Lista não ordenada:
+  <ul> 
+    <li>Aline</li>
+    <li>Alessandra</li>
+    <li>Amanda</li>
+  </ul>
+
+`<ol>` --> tag/elemento para inserir uma lista em que a ordem dos elementos importa.
+  #### Exemplos:
+  Lista ordenada (Alfabética):
+  <ul> 
+    <li>Alessandra/li>
+    <li>Aline</li>
+    <li>Amanda</li>
+  </ul>
+
+`<li>` --> representa um item da lista.
   
 ## Links úteis
 [Download VS Code - Editor de código](https://code.visualstudio.com/download)
