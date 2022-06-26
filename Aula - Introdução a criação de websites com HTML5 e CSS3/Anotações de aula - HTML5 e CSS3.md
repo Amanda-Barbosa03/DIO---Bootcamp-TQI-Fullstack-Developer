@@ -96,8 +96,8 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 `<ol>` --> tag/elemento para inserir uma lista em que a ordem dos elementos importa.
   #### Exemplos:
   Lista ordenada (Alfabética):
-  <oll> 
-    <li>Alessandra/li>
+  <ol> 
+    <li>Alessandra</li>
     <li>Aline</li>
     <li>Amanda</li>
   </ol>
