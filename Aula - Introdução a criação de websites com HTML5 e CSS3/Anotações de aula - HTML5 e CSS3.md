@@ -41,6 +41,8 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 
 `<footer>` --> notas de rodapé;
 
+### TAGS para textos:
+
 `<h1>-<h6>` --> níveis de títulos;
 
    ##### **Exemplos:**
@@ -59,12 +61,21 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 
 `<p></p>` --> parágrafos.
 
-`<a></a>` --> âncora; direciona para links.
+#### TAGs para links:
+
+`<a>Link</a>` --> âncora; direciona para links.
+`<a href="url">Nome da página</a>` --> atrituto para indicar o caminho do link. 
+`<a target="_blank">Link</a>` --> atrituto para indicar o que o link deve ser aberto em uma nova guia.
 
   ##### **Exemplos:**
 
 > ```<a href="https://github.com/Amanda-Barbosa03"target="_blank" >GitHub</a>```
 ><a href="https://github.com/Amanda-Barbosa03" target="_blank">GitHub</a>
+
+#### TAGs para imagens:
+`<img>` --> tag/elemento para inserir uma imagem.
+`<img scr ="img/avatar.jpg">` --> recurso obrigatório para indicar o caminho da imagem
+`<img alt ="descrição da foto">` --> recurso recomendado para melhorar a sensibilidade, mostra a descrição da imagem qaundo ela não é carregada ou para mostar para o usuário, por meio de leitor de tela, o que a imagem significa. 
   
 ## Links úteis
 [Download VS Code - Editor de código](https://code.visualstudio.com/download)
