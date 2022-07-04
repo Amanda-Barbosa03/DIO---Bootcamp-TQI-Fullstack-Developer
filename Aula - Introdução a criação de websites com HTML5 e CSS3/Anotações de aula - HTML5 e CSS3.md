@@ -108,23 +108,24 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 ### CSS5
 - 1996 - Crição da linguagem de estilo CSS para formatação de páginas web. 
 - Sintaxe simples; 
-- Criação de regras de estilos para elementos ou para grupo de elementos. Regra CSS formada por seletores (elementos de html) ou um grupo de seletores.
-    FORMA: Seletores {Declarações}
-#### Exemplos:
+- Criação de regras de estilos para elementos ou para grupo de elementos que podem ser formadas por seletores (elementos de html) ou um grupo de seletores. 
 
-SELETORES DE TIPO:
+### Regras de estilo CSS
+- FORMA: Seletores {Declarações (propriedade+valor) }
+#### Exemplos:
+  #### Seletores de tipo :
 
   > a, p, h1, h3 { color: blue; font-size: 14px ; }
   
   >Obs.: Mesma aparência para os elementos dos tipos declarados. 
 
-SELETORES ID x Classe:  
+  #### Seletores ID e Class : 
 
-- Utilizados para definir uma aparência diferente para cada elemento. Representa qualquer tipo de elemento. 
+  - Utilizados para definir uma aparência diferente para cada elemento. Representa qualquer tipo de elemento. 
 
 > No HTML 
 >
-> ID  -  `<header id="header"  class="header></header>`
+> ID  -  `<header id="header" class="header></header>`
 >
 > CLASS - `<header class="header"></header>`
 
@@ -140,7 +141,7 @@ SELETORES ID x Classe:
 >
 > OBS.: O ID só pode ser utilizado uma vez na página. 
 
-REPRESENTAÇÃO DOS ELEMENTOS NO NAVEGADOR:
+### Representação dos elementos no navegador:
 
 - Box model: Caixa retangular que representa cada elemento html, que pode ser alterada com o CSS.
 
@@ -152,6 +153,66 @@ REPRESENTAÇÃO DOS ELEMENTOS NO NAVEGADOR:
 >
 >Content: Conteúdo que o box representa: imagem, vídeo ou texto.
 
+### Estilização de elementos:
+
+- Padding e Margin: espaçamentos. 
+
+  - Eixo y, x: o primeiro valor se refere à parte superior e inferior e o segundo aos lados esquerdo e direito. Ex. `.class {padding: 10px 3px;}`
+
+  - Valor para cada lado do box: referindo-se respectivamente ao topo, ao lado direiro, a parte inferior e ao lado esquerdo. Ex. `#id {padding: 15px 10px 5px 0;}`  
+
+  - Propriedades específicas para cada lado: usado quando três lados são iguais e um é diferente. Ex. `.class {paddin-top: 15px;}`. 
+
+- Backgorund: cor de fundo, colocar imagem de fundo e alterar posicionamento. 
+
+  - Nome da cor em inglês: `.class {background-color: green;}`
+
+  - Valor da cor em hexadecimal: `.class {background-color: #008800;}`
+
+  - Atalho: `.class {background: #008000;}`
+
+- Border: Bordas. Podem apresentar três valores: largura, cor e estilo.
+
+  - Largura: Definida em pixel, em ou mm. (border-width)
+
+  - Cor: nome me inglês ou código hexadecimal. (border-color)
+
+  - Estilo: palavras chaves. (border-style)
+      - solid: borda simples e reta; Ex.: `.class {border: 3px solid blue;}`
+      - dotted: borda potilhada. Ex.: `.class {border-top: 2px dotted green;}`
+      - dashed: borda tracejada. Ex.: `.class {border-right: 4px dashed pink;}`
+
+  - Border-radius: arredonda cantos de um elemento com pixels ou porcentagens.
+
+  ### Estilização de texto:
+
+  - font-family:  alterar a fonte dos textos.Web safe fonts: presentes em diferentes computadores. Ex. Verdada, Arial.
+
+  - font-size: mudar o tamanho do texto em pixels.
+
+  - font-style: tonrar um texto italico usando o valor _italic_ ou remover o itálico com o valor _normal_.
+
+  - font-weight: altera o peso do texto. Valor normal ou **bold**.
+
+  - text-transform: alterar texto entre maiúsculas e minísculas. Valo r"uppercase" todas em maiúscula, valor "lowercase" todas em minúscula e valor "capitalize" apenas a primeira letra de cada palavra em maíscula. 
+
+  - text-decoration: dar destaque em algum texto acrescentando linha. Valor "underline" coloca uma linha abaixo da palavra, o valor "overline" coloca uma linha a cima da palavra e o valor "line-through" coloca uma linha cortando a palavra. 
+
+  ### Estilização de listas:
+  - list-style-type: alterar marcadores das listas. 
+ Valores: Square; upper-roman; "\1f44d"; nome.
+
+  - list-style-image: adicionar uma imagem como marcador.
+  Valor: url("rocket.png"); 
+
+  ### Propriedades de dimensões e alinhamentos:
+   - Widht e Heigt: ajustar largura e altura respectivamente.
+
+   - Max-widht e max-height: limite máximo de largura e altura. 
+
+   - Margin: valor alto que permite o alinhamento de um objeto automaticamente alem de espaçamento. Valor "auto" alinha horizontalemnte no centro.
+
+   - text-align: alinhar texto com os valores "left", "right", "center" e "justify". 
 
 ## Links úteis
 [Download VS Code - Editor de código](https://code.visualstudio.com/download)
