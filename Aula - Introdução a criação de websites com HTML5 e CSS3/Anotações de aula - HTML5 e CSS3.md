@@ -120,20 +120,25 @@ SELETORES DE TIPO:
 
 SELETORES ID x Classe:  
 
+- Utilizados para definir uma aparência diferente para cada elemento. Representa qualquer tipo de elemento. 
+
 > No HTML 
+>
 > ID  -  `<header id="header"  class="header></header>`
 >
 > CLASS - `<header class="header"></header>`
 
 > No CSS 
+>
 > CLASS - .header {
 >                  padding: 10px;
 >                  }
+>
 > ID -     #header {
 >                  padding: 10px;
 >                  }
-
-> OBS.: Utilizados para definir uma aparência diferente para cada elemento. Representa qualquer tipo de elemento. O ID só pode ser utilizado uma vez na página. 
+>
+> OBS.:O ID só pode ser utilizado uma vez na página. 
 
 
 ## Links úteis
