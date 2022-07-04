@@ -1,6 +1,7 @@
 # Anotação de aula
 ## Introdução a criação de websites com HTML5 e CSS3
 
+### HTML5
  - HTML: HyperText Markup Language -Linguagem de marcação de hipertexto; 
  - Criação de Tim Berners-Lee em 1991 (HTML1); 2014 (HTML5)
  - Importate: utilizada para definir o significado e a estrutura do conteúdo da web
@@ -103,8 +104,38 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
   </ol>
 
 `<li>` --> representa um item da lista.
-  
+
+### CSS5
+- 1996 - Crição da linguagem de estilo CSS para formatação de páginas web. 
+- Sintaxe simples; 
+- Criação de regras de estilos para elementos ou para grupo de elementos. Regra CSS formada por seletores (elementos de html) ou um grupo de seletores.
+    FORMA: Seletores {Declarações}
+      #### Exemplos:
+
+      SELETORES DE TIPO:
+       > a, p, h1, h3 {
+       >   color: blue;
+       >   font-size: 14px;
+       >}
+        Obs.: Mesma aparência para os elementos dos tipos declarados. 
+
+      SELETORES ID x Classe:  
+
+      >No HTML - ID  -  `<header id="header" class="header></header>` - >
+      >          CLASS -  `<header class="header"></header>`
+
+      >No CSS - CLSSS - .header {
+      >                 padding: 10px;
+      >                }
+      >         ID -    #header .header {
+      >                    padding: 10px;
+      >                }
+      > OBS.: Utilizados para definir uma aparência diferente para cada elemento. Representa qualquer tipo de elemento. O ID só pode ser utilizado uma vez na página. 
+
+
 ## Links úteis
 [Download VS Code - Editor de código](https://code.visualstudio.com/download)
 	
 [Sobre Html](https://www.w3schools.com/html/html_intro.asp)
+
+[Sobre CSS](https://www.w3schools.com/css/css_intro.asp)
