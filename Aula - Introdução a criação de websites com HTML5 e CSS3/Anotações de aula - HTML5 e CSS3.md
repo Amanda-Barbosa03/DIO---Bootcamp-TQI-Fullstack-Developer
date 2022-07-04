@@ -138,7 +138,19 @@ SELETORES ID x Classe:
 >                  padding: 10px;
 >                  }
 >
-> OBS.:O ID só pode ser utilizado uma vez na página. 
+> OBS.: O ID só pode ser utilizado uma vez na página. 
+
+REPRESENTAÇÃO DOS ELEMENTOS NO NAVEGADOR:
+
+- Box model: Caixa retangular que representa cada elemento html, que pode ser alterada com o CSS.
+
+>Margin: Espaçamento entre elementos
+>
+>Border: Delimitam o padding e o conteúdo. Podemos alterar lagura e cor.
+> 
+>Padding: Espaçamento entre borda e conteúdo.
+>
+>Content: Conteúdo que o box representa: imagem, vídeo ou texto.
 
 
 ## Links úteis
