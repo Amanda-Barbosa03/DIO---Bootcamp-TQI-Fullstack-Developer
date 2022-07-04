@@ -110,27 +110,30 @@ Significado estabelecido pela ligação fornecida por uma tag entre o conteúdo 
 - Sintaxe simples; 
 - Criação de regras de estilos para elementos ou para grupo de elementos. Regra CSS formada por seletores (elementos de html) ou um grupo de seletores.
     FORMA: Seletores {Declarações}
-      #### Exemplos:
+#### Exemplos:
 
-      SELETORES DE TIPO:
-       > a, p, h1, h3 {
-       >   color: blue;
-       >   font-size: 14px;
-       >}
-        Obs.: Mesma aparência para os elementos dos tipos declarados. 
+SELETORES DE TIPO:
+      
+  > a, p, h1, h3 {
+   >   color: blue;
+   >   font-size: 14px;
+   >}
+  
+  >Obs.: Mesma aparência para os elementos dos tipos declarados. 
 
-      SELETORES ID x Classe:  
+SELETORES ID x Classe:  
 
-      >No HTML - ID  -  `<header id="header" class="header></header>` - >
-      >          CLASS -  `<header class="header"></header>`
+> No HTML - ID  -  `<header id="header"  class="header></header>` - >
+>          CLASS -  `<header class="header"></header>`
 
-      >No CSS - CLSSS - .header {
-      >                 padding: 10px;
-      >                }
-      >         ID -    #header .header {
-      >                    padding: 10px;
-      >                }
-      > OBS.: Utilizados para definir uma aparência diferente para cada elemento. Representa qualquer tipo de elemento. O ID só pode ser utilizado uma vez na página. 
+> No CSS - CLASS - .header {
+>                   padding: 10px;
+>                  }
+>          ID -    #header .header {
+>                    padding: 10px;
+>                   }
+
+> OBS.: Utilizados para definir uma aparência diferente para cada elemento. Representa qualquer tipo de elemento. O ID só pode ser utilizado uma vez na página. 
 
 
 ## Links úteis
