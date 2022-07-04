@@ -1,3 +1,15 @@
+/*Criação de cores e bordas em alguns elementos para enxergarmos o box-model*/
+
+body {
+    background-color: #ccc;
+}
+
+.post {
+    background-color: #FFF;
+}
+
+/*Formtação dos titúlos da página*/
+
 #title, .subtitle, .post_title {
     color: blue
 }
