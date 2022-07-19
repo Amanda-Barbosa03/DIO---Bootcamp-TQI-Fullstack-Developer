@@ -23,7 +23,6 @@ body{
 }
 
 .profile {
-    position: static;
     height: 250px;
     display: flex; 
     justify-content: center;
