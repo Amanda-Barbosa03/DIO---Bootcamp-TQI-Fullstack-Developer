@@ -36,6 +36,10 @@ EX. `function soma(a,b) {`
  #### Estrutura de projeto
  - Arquitetura do projeto: forma que está organizada os arquivos que pertencem ao projeto. 
  - Pasta "assets": ferramentas para o desenvolvimento do projeto. Ex. Imagens, arquivos .css e .js. 
+ - Para inserir o Css numa páguna HTML, pode adicionálo antes da tag title, abaixo das tags metas. 
+ Modelo: `<link rel="stylesheet" href="assets/css/style.css"/>`
+ - Para inserir o JavaScript numa página HTML: POde ser linkado no início do arquivo antes da tag "title", mas é recomendado em projetos grandes que ele seja inserido antes da tag de fechmento "html".
+ Modelo: `<script src="assets/js/scripts.js"></script>`
 
 ### Links úteis
 [Download Git](https://git-scm.com/downloads)
