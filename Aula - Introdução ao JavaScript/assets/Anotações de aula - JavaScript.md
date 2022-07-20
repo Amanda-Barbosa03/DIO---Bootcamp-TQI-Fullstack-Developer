@@ -11,7 +11,6 @@
 - Aplicações: We, Mobile, SmartWatches, Games, Internet of things, APIs.
 - Server-side: back-side comunicação da lingagem JavaScript por meio de  Node.JS para comunicação com Softwares tipo Alexa.
 
-
 #### Comentários:
 - Linha: "//.....". Atalho do teclado: ctrl+/
 - Trechos do código: "/* ... */" Atalho do teclado: 
@@ -33,6 +32,10 @@ EX. `function soma(a,b) {`
  ####  Console
  - Na página web: botão direito do mouse e opção inpecionar. Selecionar console, pode digitar as variáveis e testar as funções. Utilizado para debugar ou para apresentar a interface para o cliente.
  - No console do terminal por meio do Node.jS: utilizado para debugar, rodando a versão do servidor. 
+
+ #### Estrutura de projeto
+ - Arquitetura do projeto: forma que está organizada os arquivos que pertencem ao projeto. 
+ - Pasta "assets": ferramentas para o desenvolvimento do projeto. Ex. Imagens, arquivos .css e .js. 
 
 ### Links úteis
 [Download Git](https://git-scm.com/downloads)
