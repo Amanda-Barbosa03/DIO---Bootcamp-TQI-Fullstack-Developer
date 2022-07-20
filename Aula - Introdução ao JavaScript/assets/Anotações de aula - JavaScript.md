@@ -41,6 +41,9 @@ EX. `function soma(a,b) {`
  - Para inserir o JavaScript numa página HTML: POde ser linkado no início do arquivo antes da tag "title", mas é recomendado em projetos grandes que ele seja inserido antes da tag de fechmento "html".
  Modelo: `<script src="assets/js/scripts.js"></script>`
 
+ #### Interação com elementos do DOM
+ DOM: Document Object Model. Mostra em uma árvore de dependência DOM tudo o que tem disponível dentro de um documento / janela da web, browser (Histórico, Localização e Documento). 
+
 ### Links úteis
 [Download Git](https://git-scm.com/downloads)
 
