@@ -1,12 +1,12 @@
 # Anotação de aula
 ## Introdução ao Java Script
- - Linguagem de programação
- - Linguagem interpretada, rodada em tempo real, não necessita de compilação. O output é simultaneo a execução do código.  
- - Baseada em Protótipos: conjunto de funções e possibilidades em comum em várias estruturas de dados. 
- - Multiparadigma: pode ser utilizada para programação orientada ao objeto, Programação estruturada ou programação funcional.   
- - Comumente utilizada em aplicações web cliente-side (voltada para a experiência e interação do usuário). 
- - Segue o padrão ECMAScript: conjunto de normas que regem funcionalidades da linguagem.
-- Criado em 1995, porém apenas em 1997 começou a seguir o padrão ECMAScript1.  
+- Linguagem de programação
+- Linguagem interpretada, rodada em tempo real, não necessita de compilação. O output é simultaneo a execução do código.  
+- Baseada em Protótipos: conjunto de funções e possibilidades em comum em várias estruturas de dados. 
+- Multiparadigma: pode ser utilizada para programação orientada ao objeto, Programação estruturada ou programação funcional.   
+- Comumente utilizada em aplicações web cliente-side (voltada para a experiência e interação do usuário). 
+- Segue o padrão ECMAScript: conjunto de normas que regem funcionalidades da linguagem.
+- Criado em 1995 poe Brendan Wich, porém apenas em 1997 começou a seguir o padrão ECMAScript1.  
 - 2015 ECMAScript6: declaração de classes, função loop, arrow functions, declaração de variáveis, concatenação de variaveis e strings. 
 - Aplicações: We, Mobile, SmartWatches, Games, Internet of things, APIs.
 - Server-side: back-side comunicação da lingagem JavaScript por meio de  Node.JS para comunicação com Softwares tipo Alexa.
@@ -16,10 +16,9 @@
 - Trechos do código: "/* ... */" Atalho do teclado: 
 
 #### Variavies e Constantes
-São delarações utilizadas para execurar funções. As 
+São delarações utilizadas para execurar funções. 
 - Variáveis:  podem ser manipuladas posteriormente,  o valor atribuído a ela pode ser redeclarado. Elas são declaradas, por boas práticas do JavaScript, com letras minúsculas e com um nome que identifique sua utilização.
 Ex. `var desconto = 2`
-
 - Constantes: não se alterarm durante o desenvolvimento do código. Devem ser escritas em maíuscula.
 Ex. `const preco = 50`
 
